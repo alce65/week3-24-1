@@ -2,6 +2,10 @@
 
 Información y ejemplos del Bootcamp de ISDI-Coders
 
+- TS: [TypeScript](https://www.typescriptlang.org/)
+- TS en la Web -> Componentes
+- Asincronía -> Promesas -> API Rest
+
 ## Configuración del entorno
 
 Previamente instalados y configurados
@@ -10,4 +14,3 @@ Previamente instalados y configurados
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [EsLint](https://eslint.org/)
 - [Jest](https://jestjs.io/)
-
